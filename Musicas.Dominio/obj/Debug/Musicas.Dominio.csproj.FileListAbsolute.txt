@@ -1,0 +1,5 @@
+C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\bin\Debug\Musicas.Dominio.dll
+C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\bin\Debug\Musicas.Dominio.pdb
+C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\obj\Debug\Musicas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\obj\Debug\Musicas.Dominio.dll
+C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\obj\Debug\Musicas.Dominio.pdb

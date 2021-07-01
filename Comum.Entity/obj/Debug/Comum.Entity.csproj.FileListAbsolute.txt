@@ -1,0 +1,12 @@
+C:\Users\André\source\repos\Musicas.Web\Comum.Entity\bin\Debug\Comum.Entity.dll.config
+C:\Users\André\source\repos\Musicas.Web\Comum.Entity\bin\Debug\Comum.Entity.dll
+C:\Users\André\source\repos\Musicas.Web\Comum.Entity\bin\Debug\Comum.Entity.pdb
+C:\Users\André\source\repos\Musicas.Web\Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\André\source\repos\Musicas.Web\Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\André\source\repos\Musicas.Web\Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\André\source\repos\Musicas.Web\Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\André\source\repos\Musicas.Web\Comum.Entity\obj\Debug\Comum.Entity.csprojAssemblyReference.cache
+C:\Users\André\source\repos\Musicas.Web\Comum.Entity\obj\Debug\Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\Musicas.Web\Comum.Entity\obj\Debug\Comum.Entity.csproj.CopyComplete
+C:\Users\André\source\repos\Musicas.Web\Comum.Entity\obj\Debug\Comum.Entity.dll
+C:\Users\André\source\repos\Musicas.Web\Comum.Entity\obj\Debug\Comum.Entity.pdb
