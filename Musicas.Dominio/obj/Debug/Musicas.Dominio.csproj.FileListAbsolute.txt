@@ -1,5 +1,12 @@
 C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\bin\Debug\Musicas.Dominio.dll
 C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\bin\Debug\Musicas.Dominio.pdb
+C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\bin\Debug\Comum.Entity.dll
+C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\bin\Debug\Comum.Entity.pdb
+C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\bin\Debug\Comum.Entity.dll.config
+C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\obj\Debug\Musicas.Dominio.csprojAssemblyReference.cache
 C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\obj\Debug\Musicas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\obj\Debug\Musicas.Dominio.csproj.CopyComplete
 C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\obj\Debug\Musicas.Dominio.dll
 C:\Users\André\source\repos\Musicas.Web\Musicas.Dominio\obj\Debug\Musicas.Dominio.pdb

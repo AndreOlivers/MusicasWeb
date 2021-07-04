@@ -52,6 +52,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\MusicasDbContext.cs" />
+    <Compile Include="EF6Console\Migrations.cs" />
+    <Compile Include="Migrations\202107031054036_Inicial.cs" />
+    <Compile Include="Migrations\202107031054036_Inicial.designer.cs">
+      <DependentUpon>202107031054036_Inicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202107031119102_AdicaoEmail.cs" />
+    <Compile Include="Migrations\202107031119102_AdicaoEmail.designer.cs">
+      <DependentUpon>202107031119102_AdicaoEmail.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TypeConfiguration\AlbumTypeConfiguration.cs" />
@@ -61,6 +70,14 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Migrations\202107031054036_Inicial.resx">
+      <DependentUpon>202107031054036_Inicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202107031119102_AdicaoEmail.resx">
+      <DependentUpon>202107031119102_AdicaoEmail.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\Comum.Entity\Comum.Entity.csproj">
       <Project>{2d598000-7ae8-4c21-8416-ee7d48018533}</Project>
       <Name>Comum.Entity</Name>
@@ -68,10 +85,6 @@
     <ProjectReference Include="..\Musicas.Dominio\Musicas.Dominio.csproj">
       <Project>{c12715d0-6a6c-49b2-977a-37fb00d22ed3}</Project>
       <Name>Musicas.Dominio</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Musicas.Web\Musicas.Web.csproj">
-      <Project>{d8c2ed48-ebe7-434c-98a6-c9a581d77ffc}</Project>
-      <Name>Musicas.Web</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

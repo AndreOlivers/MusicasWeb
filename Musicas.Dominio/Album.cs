@@ -12,5 +12,6 @@ namespace Musicas.Dominio
         public string Nome { get; set; }
         public int Ano { get; set; }
         public string Observacoes { get; set; }
+        public string Email { get; set; }
     }
 }

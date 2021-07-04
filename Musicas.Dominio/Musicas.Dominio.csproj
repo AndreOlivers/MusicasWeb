@@ -44,5 +44,11 @@
     <Compile Include="Album.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Comum.Entity\Comum.Entity.csproj">
+      <Project>{2d598000-7ae8-4c21-8416-ee7d48018533}</Project>
+      <Name>Comum.Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -11,7 +11,14 @@ namespace Musicas.AcessoADados.Entity.Context
 {
     public class MusicasDbContext : DbContext
     {
+     
         public DbSet<Album> Albuns { get; set; }
+
+        public MusicasDbContext()
+        {
+            Configuration.LazyLoadingEnabled = false;
+            Configuration.ProxyCreationEnabled = false;
+        }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

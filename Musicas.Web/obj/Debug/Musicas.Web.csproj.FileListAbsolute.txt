@@ -28,11 +28,13 @@ C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\roslyn\vbc.rsp
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\roslyn\VBCSCompiler.exe
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\Antlr3.Runtime.dll
+C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\AutoMapper.dll
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\Comum.Entity.dll
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\EntityFramework.dll
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\EntityFramework.SqlServer.dll
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\Musicas.AcessoADados.Entity.dll
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\Musicas.Dominio.dll
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\Newtonsoft.Json.dll
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\System.Web.Helpers.dll
@@ -45,7 +47,10 @@ C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\System.Web.WebPages.Raz
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\WebGrease.dll
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\Comum.Entity.pdb
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\Comum.Entity.dll.config
+C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\Musicas.AcessoADados.Entity.pdb
+C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\Musicas.AcessoADados.Entity.dll.config
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\Musicas.Dominio.pdb
+C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\AutoMapper.xml
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\EntityFramework.xml
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\EntityFramework.SqlServer.xml
 C:\Users\André\source\repos\Musicas.Web\Musicas.Web\bin\System.Web.Helpers.xml
